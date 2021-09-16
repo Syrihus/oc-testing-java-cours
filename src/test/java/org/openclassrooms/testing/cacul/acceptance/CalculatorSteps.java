@@ -1,3 +1,5 @@
+package org.openclassrooms.testing.cacul.acceptance;
+
 @SpringBootTest
 @AutoConfigureMockMvc
 public class CalculatorSteps {
